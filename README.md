@@ -37,7 +37,7 @@ The system operates on a **Microservices Architecture** with three core guardian
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/ethos-ai.git](https://github.com/your-username/ethos-ai.git)
+    git clone [https://github.com/hq969/ethos-ai.git](https://github.com/hq969/ethos-ai.git)
     cd ethos-ai
     ```
 
